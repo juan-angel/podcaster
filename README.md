@@ -1,2 +1,2 @@
 # podcaster
-Application to download podcast from several RSS Feeds
+Application to download podcasts from several RSS Feeds
